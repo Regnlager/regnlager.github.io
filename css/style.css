@@ -46,3 +46,13 @@
   margin-left: 100px;
   float: left;     
 }
+.show_info {
+  clear: both;
+  padding-top: 20px;
+  bottom: 50px;
+}
+#about_me {
+  bottom: 100px;
+  width: 700px;
+  height: 100px;
+}
